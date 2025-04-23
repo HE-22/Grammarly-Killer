@@ -1,6 +1,7 @@
 # AI Spell Check Tool
 
-This project provides an advanced spell check and grammar correction tool powered by OpenAI's GPT models. It can handle heavily misspelled text, text without spaces, abbreviations, and even format code snippets.
+![auto-correct-ai](https://github.com/user-attachments/assets/6282a823-bd6e-4e11-b73f-6d594d5983c7)
+
 
 ## Features
 
@@ -61,4 +62,9 @@ Output:
 hello world this is a test
 ```
 
-Optionally add to Alfred workflow (https://www.alfredapp.com/)
+## Optional 
+* Add to Alfred workflow (https://www.alfredapp.com/)
+* This way, you can trigger it to run on your highlighted text and auto-paste over the old writing.
+
+<img width="583" alt="image" src="https://github.com/user-attachments/assets/77ad5394-75f6-4037-9d7e-ca2285710ff8" />
+
