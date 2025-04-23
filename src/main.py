@@ -48,7 +48,7 @@ def process_string(input_string: str) -> str:
 
 if __name__ == "__main__":
     if len(sys.argv) != 2:
-        print("Usage: python advanced_spell_check.py 'input string'")
+        print("Usage: python main.py 'input string'")
         sys.exit(1)
 
     input_str = sys.argv[1]
